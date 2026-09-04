@@ -3,7 +3,7 @@ Repo Containing contact Details for Tracking Equipment
 
 
 
-# If you've some equipment which leads to this page
+# If you've found some equipment that links to this page
 
 Take a photo of it and,
 
